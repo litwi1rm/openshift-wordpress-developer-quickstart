@@ -1,0 +1,65 @@
+widget_archives+++
+a:2:{i:2;a:3:{s:5:"title";s:0:"";s:5:"count";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_categories+++
+a:3:{i:2;a:4:{s:5:"title";s:0:"";s:5:"count";i:0;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}i:3;a:4:{s:5:"title";s:0:"";s:5:"count";i:1;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_meta+++
+a:2:{i:2;a:1:{s:5:"title";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_recent-comments+++
+a:2:{i:2;a:2:{s:5:"title";s:0:"";s:6:"number";i:5;}s:12:"_multiwidget";i:1;}
+-------
+widget_recent-posts+++
+a:2:{i:2;a:2:{s:5:"title";s:0:"";s:6:"number";i:5;}s:12:"_multiwidget";i:1;}
+-------
+widget_rss+++
+a:0:{}
+-------
+widget_search+++
+a:2:{i:2;a:1:{s:5:"title";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_tag_cloud+++
+a:3:{i:2;a:2:{s:5:"title";s:9:"Tag Cloud";s:8:"taxonomy";s:8:"post_tag";}i:3;a:2:{s:5:"title";s:9:"Tag Cloud";s:8:"taxonomy";s:8:"post_tag";}s:12:"_multiwidget";i:1;}
+-------
+widget_text+++
+a:2:{i:2;a:3:{s:5:"title";s:8:"About Me";s:4:"text";s:254:"<img  src="http://webnus.biz/themes/papillon-wp/wp-content/uploads/2015/01/jane.jpg" alt=""><br><p style="margin-top: 16px;">Jane Smith, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud photo booth anim velta.</p>";s:6:"filter";b:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_webnuspostsliderwidget+++
+a:2:{i:2;a:2:{s:5:"title";s:11:"post slider";s:5:"count";s:1:"3";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnussocialwidget+++
+a:2:{i:2;a:17:{s:5:"title";s:12:"Social Icons";s:12:"twitter_link";s:1:"#";s:13:"facebook_link";s:1:"#";s:12:"youtube_link";s:1:"#";s:13:"linkedin_link";s:1:"#";s:13:"dribbble_link";s:0:"";s:14:"pinterest_link";s:0:"";s:10:"vimeo_link";s:1:"#";s:10:"gplus_link";s:1:"#";s:8:"rss_link";s:1:"#";s:14:"instagram_link";s:1:"#";s:11:"flickr_link";s:0:"";s:11:"reddit_link";s:0:"";s:11:"lastfm_link";s:0:"";s:14:"delicious_link";s:0:"";s:11:"tumblr_link";s:0:"";s:10:"skype_link";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnustestimonialwidget+++
+a:2:{i:2;a:5:{s:5:"title";s:11:"Testimonial";s:5:"image";s:80:"http://webnus.biz/themes/california-wp/malibu/wp-content/uploads/2015/03/qt4.jpg";s:4:"name";s:10:"John Smith";s:8:"subtitle";s:9:"IpsumBlog";s:4:"text";s:152:"Standard content uniquely non nulla sit amet nisl tempus convallis quis ac lectus effective content through multimedia rutrum congue leo eget malesuada.";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnuswidgettabs+++
+a:2:{i:2;a:8:{s:5:"posts";s:1:"4";s:8:"comments";s:1:"4";s:4:"tags";s:1:"4";s:18:"show_popular_posts";s:2:"on";s:17:"show_recent_posts";s:2:"on";s:13:"show_comments";s:2:"on";s:9:"show_tags";N;s:7:"orderby";s:8:"Comments";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_facebook_widget+++
+a:2:{i:2;a:2:{s:5:"title";s:8:"Facebook";s:3:"url";s:31:"https://www.facebook.com/envato";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_latestposts+++
+a:2:{i:2;a:2:{s:5:"title";s:12:"Recent Posts";s:13:"numberOfPosts";s:1:"4";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_popularposts+++
+a:2:{i:2;a:2:{s:5:"title";s:13:"Popular Posts";s:13:"numberOfPosts";s:1:"3";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_subscribe_widget+++
+a:2:{i:2;a:5:{s:5:"title";s:9:"Subscribe";s:4:"type";s:10:"FeedBurner";s:2:"id";s:0:"";s:3:"url";s:0:"";s:4:"text";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_price_filter+++
+a:2:{i:2;a:1:{s:5:"title";s:15:"Filter by price";}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_products+++
+a:2:{i:2;a:7:{s:5:"title";s:17:"Featured Products";s:6:"number";s:1:"5";s:4:"show";s:8:"featured";s:7:"orderby";s:4:"date";s:5:"order";s:4:"desc";s:9:"hide_free";i:0;s:11:"show_hidden";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_product_categories+++
+a:2:{i:2;a:6:{s:5:"title";s:18:"Product Categories";s:7:"orderby";s:5:"order";s:8:"dropdown";i:0;s:5:"count";i:0;s:12:"hierarchical";i:0;s:18:"show_children_only";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_widget_cart+++
+a:2:{i:2;a:2:{s:5:"title";s:4:"Cart";s:13:"hide_if_empty";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_yflickr+++
+a:2:{i:2;a:2:{s:5:"title";s:6:"Flickr";s:6:"flickr";s:143:"<script type="text/javascript" src="http://www.flickr.com/badge_code.gne?count=12&display=random&size=square&nsid=36587311@N08&raw=1"></script>";}s:12:"_multiwidget";i:1;}
