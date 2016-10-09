@@ -3,7 +3,6 @@
 	if ( ! wp || ! wp.customize ) { return; }
 	var api = wp.customize;
 
-
 	/**
 	 * wp.customize.HeaderTool.CurrentView
 	 *
@@ -64,13 +63,11 @@
 		setPlaceholder: function(_height) {
 			var height = _height || this.getHeight();
 			this.model.set('savedHeight', height);
-			this.$el
-				.add(this.$el.find('.placeholder'))
-				.height(height);
+			this.$el.height(height);
 		},
 
 		setButtons: function() {
-			var elements = $('.actions .remove');
+			var elements = $('#customize-control-header_image .actions .remove');
 			if (this.model.get('choice')) {
 				elements.show();
 			} else {

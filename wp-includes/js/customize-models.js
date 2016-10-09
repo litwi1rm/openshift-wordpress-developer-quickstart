@@ -1,4 +1,4 @@
-/* globals _wpCustomizeHeader, _ */
+/* global _wpCustomizeHeader */
 (function( $, wp ) {
 	var api = wp.customize;
 	api.HeaderTool = {};
@@ -110,6 +110,10 @@
 
 			if (this.get('themeWidth') === this.get('imageWidth') &&
 				this.get('themeHeight') === this.get('imageHeight')) {
+				return false;
+			}
+
+			if (this.get('imageWidth') <= this.get('themeWidth')) {
 				return false;
 			}
 

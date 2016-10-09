@@ -34,16 +34,16 @@ if (getenv('OPENSHIFT_APP_NAME') != "") {
 /** These settings can be configured for your local development environment
 	and will not affect your OpenShift configuration */
 } else {
-	define('DB_NAME', 'database_name_here');
+	define('DB_NAME', 'stannesparish');
 
 	/** MySQL database username */
-	define('DB_USER', 'username_here');
+	define('DB_USER', 'adminIMEAsdz');
 
 	/** MySQL database password */
-	define('DB_PASSWORD', 'password_here');
+	define('DB_PASSWORD', 'bejTYcfS36vr');
 
 	/** MySQL hostname */
-	define('DB_HOST', 'localhost');
+	define('DB_HOST', '127.0.0.1:3306');
 }
 
 
