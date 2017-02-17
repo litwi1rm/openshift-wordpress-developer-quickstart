@@ -1,0 +1,111 @@
+/* Maron Pro Editor Styles 
+--------------------------------- */
+a.btn {
+    border-radius: 3px;
+    box-shadow: 0 -3px rgba(0, 0, 0, 0.15) inset;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 10px 20px;
+}
+a.btn:hover {
+    color: #FFF !important;
+    box-shadow: 0 3px rgba(255, 255, 255, 0.5) inset;
+}
+a.btn.small {
+    padding: 5px 10px;
+}
+a.btn.large {
+    padding: 15px 30px;
+}
+a.orange.btn {
+    background: none repeat scroll 0 0 #f76d3c;
+}
+a.orange.btn:hover {
+    background: none repeat scroll 0 0 #f99875;
+}
+a.blue.btn {
+    background: none repeat scroll 0 0 #5481e6;
+}
+a.blue.btn:hover {
+    background: none repeat scroll 0 0 #6996fb;
+}
+a.teal.btn {
+    background: none repeat scroll 0 0 #2ca8c2;
+}
+a.teal.btn:hover {
+    background: none repeat scroll 0 0 #5acfe7;
+}
+a.green.btn {
+    background: none repeat scroll 0 0 #98cb4a;
+}
+a.green.btn:hover {
+    background: none repeat scroll 0 0 #b1e364;
+}
+a.grey.btn {
+    background: none repeat scroll 0 0 #839098;
+}
+a.grey.btn:hover {
+    background: none repeat scroll 0 0 #b1c1cb;
+}
+a.pink.btn {
+    background: none repeat scroll 0 0 #f15f74;
+}
+a.pink.btn:hover {
+    background: none repeat scroll 0 0 #f88898;
+}
+a.purple.btn {
+    background: none repeat scroll 0 0 #913ccd;
+}
+a.purple.btn:hover {
+    background: none repeat scroll 0 0 #b362ec;
+}
+
+/* Shadow Boxes
+--------------------------------------------- */
+.shadow-box-blue,
+.shadow-box-gray,
+.shadow-box-green,
+.shadow-box-purple,
+.shadow-box-pink,
+.shadow-box-yellow {
+	margin-bottom: 30px;
+	overflow: hidden;
+	padding: 30px 30px 25px;
+}
+.shadow-box-blue p,
+.shadow-box-gray p,
+.shadow-box-green p,
+.shadow-box-purple p,
+.shadow-box-pink p,
+.shadow-box-yellow p {
+    margin-bottom: 5px;
+}
+.shadow-box-blue {
+	background-color: #5481e6;
+	border: 1px solid #afcde3;
+}
+ 
+.shadow-box-gray {
+	background-color: #e2e2e2;
+	border: 1px solid #bdbdbd;
+}
+ 
+.shadow-box-green {
+	background-color: #d9edc2;
+	border: 1px solid #b2ce96;
+}
+ 
+.shadow-box-purple {
+	background-color: #e2e2f9;
+	border: 1px solid #bebde9;
+}
+ 
+.shadow-box-pink {
+	background-color: #f9dbdb;
+	border: 1px solid #e9b3b3;
+}
+ 
+.shadow-box-yellow {
+	background-color: #fef5c4;
+	border: 1px solid #fadf98;
+}

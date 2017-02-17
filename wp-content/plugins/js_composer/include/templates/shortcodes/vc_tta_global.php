@@ -1,4 +1,8 @@
 <?php
+if ( ! defined( 'ABSPATH' ) ) {
+	die( '-1' );
+}
+
 /**
  * Shortcode attributes
  * @var $atts
@@ -12,6 +16,7 @@ extract( $atts );
 
 $this->setGlobalTtaInfo();
 
+$this->enqueueTtaStyles();
 $this->enqueueTtaScript();
 
 // It is required to be before tabs-list-top/left/bottom/right for tabs/tours
